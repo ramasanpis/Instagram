@@ -1,0 +1,5 @@
+python-dotenv
+requests
+python-telegram-bot==20.4
+instagrapi
+pillow
